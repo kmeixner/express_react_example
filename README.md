@@ -1,0 +1,1 @@
+* Very minimum basic ExpressJS app (NodeJS + ReactJS) for learning purposes and to build other more complex apps from
